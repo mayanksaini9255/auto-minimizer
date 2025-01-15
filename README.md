@@ -1,12 +1,15 @@
 # Focus-Based Window Minimizer
-
-This Python script automatically minimizes all open windows on your Windows system when it detects that you are not looking at the screen. It leverages a pre-trained machine learning model to identify whether the user is focused on the screen or not.
+*by Mayank*
+This Python script automatically minimizes all open windows on your Windows system when it detects that you are not looking at the screen. It leverages a pre-trained machine learning model fine tuned to identify whether the user is focused on the screen or not.
 
 
 ## Project Overview
 
 The script uses a real-time webcam feed to monitor your gaze. If the model detects that you've looked away from the screen for a sufficient duration, it minimizes all windows to reduce distractions. When gaze returns to the screen, windows are restored.
 
+The inspiration for this project stems from my personal habit of minimizing all open windows whenever I stepped away from my laptop. Each time, I found myself repeatedly using the same three-finger swipe gesture to clear my workspace. This routine quickly became tedious and felt like an unnecessary repetition that could easily be automated.
+
+Recognizing this inefficiency, I set out to create a solution that would streamline the process entirely. This program is designed to eliminate the need for redundant gestures and ensure that managing your workspace is as seamless and effortless as possible. 
 This project provides a helpful tool for enhancing focus and productivity by minimizing interruptions from open applications.
 
 
