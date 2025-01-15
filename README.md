@@ -1,4 +1,4 @@
-# Focus-Based Window Minimizer by Mayank
+# Focus-Based Window Minimizer (by Mayank)
 
 This Python script automatically minimizes all open windows on your Windows system when it detects that you are not looking at the screen. It leverages a pre-trained machine learning model fine tuned to identify whether the user is focused on the screen or not.
 
