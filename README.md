@@ -86,7 +86,7 @@ Contributions to this project are welcome. Please feel free to fork the reposito
 ```text
 BSD 3-Clause License
 
-Copyright (c) [YEAR] [YOUR NAME]
+Copyright (c) [2025] [Mayank]
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -113,4 +113,4 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-''' 
+
